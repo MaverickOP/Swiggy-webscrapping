@@ -14,3 +14,7 @@ from selenium.webdriver.common.keys import Keys
 from pyshadow.main import Shadow
 from bs4 import BeautifulSoup
 import time
+import pandas as pd
+import numpy as np
+import matplotlib.pyplot as plt
+import seaborn as sns
